@@ -7,7 +7,6 @@ kiểm tra lỗi chính tả trong Tiếng Việt (xử lý ngôn ngữ tự nhi
 # Cài đặt
 ## Yêu cầu
 - Git
-- Node.js và npm
 
 ### Bước 1: Clone Repository
 ```bash
